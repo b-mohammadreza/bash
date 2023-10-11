@@ -1,4 +1,4 @@
-***
+*** IN_PROGRESS
 While Bash comes with plenty of useful built-in commands, a key skill every Bash programmer should know
 is how to create their own.
 Write a command that lists the contents of your usr/local directory. Your script can set up variables,
